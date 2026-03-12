@@ -31,10 +31,4 @@ GitHub Profile: https://github.com/vamsiganvbscit2025
 Instagram profile:https://www.instagram.com/itzz___leo
 
 ## Certificates
-
-- Programming Fundamentals Certificate
-- Java Programming Certificate
-- AI Course Certificate
-- ## Certificates
-
-- Java Programming Certificate (certificate1.pdf)
+- data structure Certificate (certificate1.pdf)
