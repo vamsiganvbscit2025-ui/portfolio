@@ -19,4 +19,4 @@ Language: Java
 Description: Game where user guesses a random number.
 
 ## Contact
-Email: yourname@gmail.com
+Email : vvamsigan@gmail.co
