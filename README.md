@@ -35,3 +35,6 @@ Instagram profile:https://www.instagram.com/itzz___leo
 - Programming Fundamentals Certificate
 - Java Programming Certificate
 - AI Course Certificate
+- ## Certificates
+
+- Java Programming Certificate (certificate1.pdf)
