@@ -20,3 +20,15 @@ Description: Game where user guesses a random number.
 
 ## Contact
 Email : vvamsigan@gmail.co
+## Profiles
+
+LinkedIn: https://www.linkedin.com/in/yourname
+
+GitHub Profile: https://github.com/yourusername
+
+
+## Certificates
+
+- Programming Fundamentals Certificate
+- Java Programming Certificate
+- AI Course Certificate
