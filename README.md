@@ -1,7 +1,7 @@
 # My Programming Portfolio
 
 ## About Me
-Hello, I am a Computer Science student interested in programming and software development.
+Hello, I am a Information Technology student interested in programming and software development.
 
 ## Skills
 - Java
