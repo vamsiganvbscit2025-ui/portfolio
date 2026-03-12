@@ -22,10 +22,13 @@ Description: Game where user guesses a random number.
 Email : vvamsigan@gmail.co
 ## Profiles
 
-LinkedIn: https://www.linkedin.com/in/yourname
+LinkedIn: https://www.linkedin.com/in/
+vamsi-v-a53ba737b
+Vanity URL name
 
-GitHub Profile: https://github.com/yourusername
 
+GitHub Profile: https://github.com/vamsiganvbscit2025
+Instagram profile:https://www.instagram.com/itzz___leo
 
 ## Certificates
 
